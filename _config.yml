@@ -32,3 +32,21 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Study
+   url: /study
+ - title: Project
+   url: /project
+ - title: Contact
+   url: /contact
+
+social:
+   github: kluster86
+   facebook: kluster86
+   instagram: kluster86
+   email: kluster86@gmail.com
